@@ -35,7 +35,7 @@
 > 실제 앱 동작/빌드를 위해서는 프로젝트 기본 파일 및 리소스는 별도 준비 바랍니다.
 
 ---
-
+```
 ## 🏗️ 프로젝트 폴더/파일 구조
 TodaySky/
 │
@@ -59,7 +59,7 @@ TodaySky/
 └── TodaySkyTests/
     ├── HolidayViewModelTests.swift
     └── WeatherViewModelTests.swift
-
+```
 ---
 
 ## 🔑 주요 구조 및 역할
